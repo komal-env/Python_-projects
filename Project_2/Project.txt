@@ -1,1 +1,38 @@
 
+ATM Simulator Using Python
+
+Project Description
+
+The ATM Simulator is a console-based Python application that simulates the basic operations of an Automated Teller Machine (ATM). The project allows users to securely access their account by entering a valid Personal Identification Number (PIN). After successful authentication, users can perform common banking operations such as checking their account balance, depositing money, withdrawing money, and exiting the application.
+
+The program uses loops and conditional statements to display the ATM menu repeatedly until the user chooses to exit. It also includes input validation to ensure that only valid deposit and withdrawal amounts are accepted. To enhance security, the program limits the user to three incorrect PIN attempts. If the user enters the wrong PIN three times, the account is automatically locked.
+
+This project demonstrates how Python can be used to build a simple, menu-driven application that closely resembles the basic functionality of a real ATM. It helps beginners understand important programming concepts while solving a real-world problem.
+
+Objectives
+To simulate the basic operations of an ATM.
+To implement PIN-based user authentication.
+To perform balance inquiry, cash deposit, and cash withdrawal.
+To validate user inputs and handle incorrect operations.
+To strengthen understanding of Python programming concepts.
+Features
+Secure PIN verification (maximum 3 attempts).
+Balance checking.
+Money deposit.
+Money withdrawal with insufficient balance checking.
+Continuous menu using a while loop.
+Input validation for invalid amounts.
+Exit option to safely terminate the program.
+Concepts Used
+Variables
+Data Types
+Input and Output
+if-elif-else Statements
+while Loops
+Nested Loops
+Arithmetic Operators
+Comparison Operators
+Logical Operators
+Conclusion
+
+The ATM Simulator is a beginner-friendly Python project that demonstrates how programming concepts can be applied to solve practical problems. It provides hands-on experience with loops, conditional statements, user input handling, and menu-driven programming while simulating real-world ATM operations in a simple and interactive way.
