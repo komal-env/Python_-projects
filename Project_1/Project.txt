@@ -1,1 +1,17 @@
+Grocery Billing System is a beginner-friendly Python project that simulates a simple billing application. Users can enter the required quantities of grocery items, and the program calculates item-wise costs and the final bill instantly. This project helps in understanding:
 
+User input handling
+Variables and data types
+Arithmetic calculations
+Formatted output
+Basic command-line application development
+
+Tech Stack: Python
+
+Features:
+
+Accepts customer name
+Takes quantity of grocery items as input
+Calculates individual item prices
+Displays an itemized bill
+Calculates and displays the final amount
