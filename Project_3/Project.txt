@@ -1,1 +1,21 @@
+🎓 Student Report Card Management System
 
+A simple Python console application that manages student report cards using basic Python concepts. This project allows users to add student records, calculate total marks and percentage, assign grades, search students, display all records, and find the class topper.
+
+✨ Features
+Add multiple student records
+Calculate total marks and percentage
+Assign grades and Pass/Fail status
+Display all student details
+Search by Name or Roll Number
+Find the class topper
+Validate marks (0–100)
+🛠️ Concepts Used
+while Loop
+for Loop
+if-elif-else
+Basic Lists
+Menu-Driven Programming
+Input Validation
+
+Note: A student is marked Fail if they score less than 33 marks in any subject, regardless of their overall percentage.
